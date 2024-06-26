@@ -2,7 +2,7 @@
 // @name         Hide YouTube Shorts
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Hide all traces of YouTube shorts videos on YouTube
+// @description  No Shorts For You!
 // @author       You
 // @match        *://*.youtube.com/*
 // @grant        none
